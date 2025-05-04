@@ -1,0 +1,3 @@
+/home/erixian/CLionProjects/pwdmanager_C/cmake-build-debug/CMakeFiles/pwdmanager_C.dir
+/home/erixian/CLionProjects/pwdmanager_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/erixian/CLionProjects/pwdmanager_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
