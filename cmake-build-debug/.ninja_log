@@ -1,8 +1,7 @@
 # ninja log v6
 1	121	1748384261255713286	CMakeFiles/pwdmanager_C.dir/main.c.o	d4bf31b40a5b5db
 0	35	1748384505717155003	CMakeFiles/pwdmanager_C.dir/src/file_operations.c.o	4eaaad0554cb85c7
-71	97	1748384505787156371	pwdmanager_C	2dea8aa9f40ad8ee
+1	69	1748385456219054407	pwdmanager_C	6a86a8eeb7052e1c
 1	52	1748385348833820656	CMakeFiles/pwdmanager_C.dir/src/main.c.o	f1d6e85b4b6974cc
 2	54	1748385348833820656	CMakeFiles/pwdmanager_C.dir/src/auth.c.o	cbcac407fb065859
 33	71	1748384505750488988	CMakeFiles/pwdmanager_C.dir/src/ui.c.o	9d6f6f6acc7eb4b7
-1	69	1748385456219054407	pwdmanager_C	6a86a8eeb7052e1c
