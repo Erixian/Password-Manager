@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+//haha
 #ifdef _WIN32
     #include <windows.h>
     #include <direct.h>
@@ -24,7 +24,7 @@ void setup_data_directory();
 char* get_auth_file_path();
 void init_auth_file();
 
-//int authentication(user*);
+int authentication(user*);
 int usernameValidation(user*);
 int registerUser(user*);
 void clearScreen();
